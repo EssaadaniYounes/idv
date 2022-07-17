@@ -1,0 +1,43 @@
+{
+    "dialog":{
+        "addMessage": "Add Success",
+        "updateMessage": "Updated Successfully",
+        "deleteMessage": "Deleted Success",
+        "deleteConfirm":"Confirm Delete ?"
+    },
+    "main": {
+        "categories": "Categories",
+        "products": "Products",
+        "branchs": "Branchs"
+    },
+    "categories":{
+        "title":"Categories",
+        "add":"Add",
+        "search":"Search",
+        "addCategory":"Add Category",
+        "updateCategory":"Update Category",
+        "categoryTitle":"Title",
+        "save":"Save",
+        "titles":"title"
+    },
+    "products":{
+        "title": "Products",
+        "add": "Add",
+        "search": "Search",
+        "addProduct": "Add Product",
+        "updateProduct": "Update Product",
+        "productTitle": "Title",
+        "mainImage": "Product Image",
+        "subImages": "Product Sub Image",
+        "productReference": "Reference",
+        "productCategory": "Category",
+        "productDescription": "Description",
+        "productVideoLink": "Video Link",
+        "productFonctionalities": "Functionalities",
+        "save": "Save",
+        "titles": "title"
+    },
+    "branchs":{
+        "title":" Branchs"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "dialog": {
+        "addMessage":"تمت الإضافة بنجاح",
+        "updateMessage":"تم التعديل ",
+        "deleteMessage":"تم الحذف",
+        "deleteConfirm": "تأكيد الحذف ؟"
+    },
+    "main":{
+        "categories":"الفئات",
+        "products":"المنتجات",
+        "branchs" :"الفروع"
+    },
+    "categories": {
+        "title": "الفئات",
+        "add": "إضافة",
+        "search": "بحث",
+        "addCategory": "إضافة فئة",
+        "updateCategory": "تعديل فئة",
+        "categoryTitle": "الاسم",
+        "save": "حفظ",
+        "titles":"الاسم"
+    },
+    "products": {
+        "title": "المنتجات",
+        "add": "إضافة",
+        "search": "بحث",
+        "addProduct": "إضافة منتج",
+        "updateProduct": "تعديل منتج",
+        "productTitle": "إسم المنتج",
+        "mainImage": "صورة المنتج",
+        "subImages": "الصور الفرعية",
+        "productReference": "المرجع",
+        "productCategory": "الفئة",
+        "productDescription": "وصف المنتج",
+        "productVideoLink": "رابط فيديو للمنتج",
+        "productFonctionalities": "وظائف",
+        "save": "حفظ",
+        "titles": "الإسم"
+    },
+    "branchs": {
+        "title": "الفروع"
+    }
+}

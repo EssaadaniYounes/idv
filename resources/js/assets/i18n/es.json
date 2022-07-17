@@ -1,0 +1,43 @@
+{
+    "dialog": {
+        "addMessage": "Agregado exitosamente",
+        "updateMessage": "Modificado ",
+        "deleteMessage": "Eliminado",
+        "deleteConfirm": "¿Confirmar la eliminación?"
+    },
+    "main": {
+        "categories": "Categorías",
+        "products": "productos",
+        "branchs": "sucursales"
+    },
+    "categories": {
+        "title": "Categorías",
+        "add": "adición",
+        "search": "Búsqueda",
+        "addCategory": "Añadir categoría",
+        "updateCategory": "Editar categoria",
+        "categoryTitle": "El nombre",
+        "save": "salvad",
+        "titles": "El nombre"
+    },
+    "products":{
+        "title":"productos",
+        "add": "adición",
+        "search": "Búsqueda",
+        "addProduct": "Agregar producto",
+        "updateProduct": "Actualizar producto",
+        "productTitle": "Título",
+        "productReference": "Referencia",
+        "productCategory": "Categoría",
+        "mainImage": "Imagen del producto",
+        "subImages": "Imagen secundaria del producto",
+        "productDescription":"Descripción",
+        "productVideoLink": "Enlace de video",
+        "productFonctionalities":"Funcionalidades",
+        "save": "salvad",
+        "titles": "El nombre"
+    },
+    "branchs": {
+        "title": " Rama"
+    }
+}
